@@ -11,8 +11,6 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 
 ### Visualizing the History of Nobel Prize Winners
 
-The following project description and tasks were taken from the DataCamp project website.
-
 #### Project Description
 > "The Nobel Prize is awarded yearly to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace, with the first prize awarded in 1901. Are there any biases in the way the honors are awarded? Use your data manipulation and visuaization skills to explore the history of this coveted prize."
 >
@@ -25,13 +23,11 @@ The following project description and tasks were taken from the DataCamp project
 - Find who was the first female Nobel prize winner and in which category.
 - Find which individuals or organizations have received more than one Nobel prize throughout the years.
 
-The completed project can be found in DataLab.  
+The completed project can be found in my DataLab notebook.  
 
 ---
 
 ### Exploring NYC Public School Test Result Scores
-
-The following project description and tasks were taken from the DataCamp project website.
 
 #### Project Description
 > "Each year, school test results impact the college admissions fate of millions of students. In this project you will use standardize test performance data from NYC's public schools to identigy the schools with top mathematics results, look at how performance varies by borough and find the NYC's top ten performing school."
@@ -44,7 +40,7 @@ Answer the following questions:
 - What are the top 10 performing schools based on the combined SAT scores?
 - Which single NYC borough has the largest standard deviation?
 
-The completed project can be found in DataLab.  
+The completed project can be found in my DataLab notebook.  
 
 ---
 
