@@ -23,7 +23,7 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 - Find who was the first female Nobel prize winner and in which category.
 - Find which individuals or organizations have received more than one Nobel prize throughout the years.
 
-The completed project can be found in my DataLab notebook.  
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/e93708e4-ba85-46d5-af18-b89287975215/edit).  
 
 ---
 
@@ -40,7 +40,7 @@ Answer the following questions:
 - What are the top 10 performing schools based on the combined SAT scores?
 - Which single NYC borough has the largest standard deviation?
 
-The completed project can be found in my DataLab notebook.  
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/456b9869-cb71-409e-b50a-cb2f27fba081/edit).  
 
 ---
 
