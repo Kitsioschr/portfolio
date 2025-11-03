@@ -3,7 +3,7 @@
 
 ## DataCamp Real-World Projects
 
-As part of the *Associate Data Scientist in Python* career trak I have completed the following Real-world DataCamp projects:
+As part of the *Associate Data Scientist in Python* career trak I have completed the following real-world DataCamp projects:
 - [Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/projects/1888)
 - [Exploring NYC Public School Test Result Scores](https://www.datacamp.com/projects/1596)
 
