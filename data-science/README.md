@@ -2,7 +2,7 @@
 
 ## Data Science Portfolio
 
-Recently, I subscribed to **DataCamp**'s premium plan to practice my Python programming skills focusing on data science topics.
+Recently, I subscribed to [**DataCamp**](https://www.datacamp.com/)'s premium plan to practice my Python programming skills focusing on data science topics.
 I am pursuing the *Associate Data Scientist in Python* career track which includes courses on:
 - exploratory data analysis, 
 - statistical hypothesis testing
@@ -14,17 +14,22 @@ This career track provides hands-on experience in various Python libraries for d
 - scikit-learn for machine learning,
 - statsmodels for statistical analysis.
 
-  More informatio on the *Associate Data Scientist in Python* career track can be found in the track's website.
+  More informatio on the *Associate Data Scientist in Python* career track can be found in the [track's website](https://www.datacamp.com/tracks/associate-data-scientist-in-python).
 
 ### DataCamp Portfolio
 
 You can find my DataCamp portfolio at:
 
-add link
+[https://www.datacamp.com/portfolio/christoskitsios](https://www.datacamp.com/portfolio/christoskitsios)
+
 
 ### DataCamp Real-World Projects
 
 DataCamp also offers Real-world Projects in order to apply your skills though practical experience with real datasets. 
+
+I have completed the following Real-world DataCamp projects:
+- [Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/projects/1888)
+- [Exploring NYC Public School Test Result Scores](https://www.datacamp.com/projects/1596)
 
 Head to the [datacamp-projects](datacamp-projects/) subsdirectory to find more about the projects I have completed.
   
