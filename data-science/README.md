@@ -14,12 +14,11 @@ This career track provides hands-on experience in various Python libraries for d
 - scikit-learn for machine learning,
 - statsmodels for statistical analysis.
 
-  More informatio on the *Associate Data Scientist in Python* career track can be found in the [track's website](https://www.datacamp.com/tracks/associate-data-scientist-in-python).
+More information on the *Associate Data Scientist in Python* career track can be found in the [track's website](https://www.datacamp.com/tracks/associate-data-scientist-in-python).
 
 ### DataCamp Portfolio
 
 You can find my DataCamp portfolio at:
-
 [https://www.datacamp.com/portfolio/christoskitsios](https://www.datacamp.com/portfolio/christoskitsios)
 
 
