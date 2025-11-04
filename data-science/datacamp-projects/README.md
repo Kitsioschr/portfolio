@@ -4,8 +4,26 @@
 ## DataCamp Real-World Projects
 
 As part of the *Associate Data Scientist in Python* career trak I have completed the following real-world DataCamp projects:
+- [Analyzing Crime in Los Angeles](https://www.datacamp.com/projects/1876)
 - [Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/projects/1888)
 - [Exploring NYC Public School Test Result Scores](https://www.datacamp.com/projects/1596)
+
+---
+
+### Analyzing Crime in Los Angeles
+
+#### Project Description
+> "Los Angeles, California, attracts people from all over the world, offering lots of opportunities, not always of the good kind! In this project, you’ll serve as a data detective, supporting the Los Angeles Police Department (LAPD) in analyzing crime  data to guide how they should allocate resources to protect the people of the city!"
+>
+> The project description was taken from the DataCamp project website.
+
+#### Project Tasks
+Explore the dataset and
+- find which hour has the highest frequency of crimes,
+- find which area has the highest frequency of night crimes,
+- identify the number of crimes committed against victims of different age groups.
+
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/2cbc17d2-5dc2-4cb7-b428-7685cb886114/edit).
 
 ---
 
