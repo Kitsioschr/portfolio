@@ -4,9 +4,28 @@
 ## DataCamp Real-World Projects
 
 As part of the *Associate Data Scientist in Python* career trak I have completed the following real-world DataCamp projects:
+- [Hypothesis Testing with Men's and Women's Soccer Matches](https://www.datacamp.com/projects/1611)
 - [Analyzing Crime in Los Angeles](https://www.datacamp.com/projects/1876)
 - [Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/projects/1888)
 - [Exploring NYC Public School Test Result Scores](https://www.datacamp.com/projects/1596)
+
+---
+
+### Hypothesis Testing with Men's and Women's Soccer Matches
+
+#### Project Description
+> "Time to begin applying your statistical testing skills to historical data of men’s and women’s international soccer matches! You’ll work at a major online sports media company specializing in soccer analysis and reporting. You will test the hypothesis to determine of women’s international soccer matches result in more goals scored than men’s"
+>
+> The project description was taken from the DataCamp project website.
+
+#### Project Tasks
+Perform an appropriate hypothesis to determine the p-value and determine the answer to the question: “Are more goals scored in women’s international football matches than men’s?”
+
+We assume a 10% significance level and use the following null and alternative hypothesis:
+- H<sub>0</sub> : The mean number of goals scored in women’s international matches is the same as men’s
+- H<sub>A</sub> : The mean number of goals scored in women’s international matches is greater than men’s
+
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/69f20afc-2d48-4f7b-b250-d0ca51f4f461/edit).
 
 ---
 
