@@ -27,6 +27,7 @@ You can find my DataCamp portfolio at:
 DataCamp also offers Real-world Projects in order to apply your skills though practical experience with real datasets. 
 
 I have completed the following real-world DataCamp projects:
+- [Hypothesis testing with Men's and Women's Soccer Matches](https://www.datacamp.com/projects/1611)
 - [Analyzing Crime in Los Angeles](https://www.datacamp.com/projects/1876)
 - [Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/projects/1888)
 - [Exploring NYC Public School Test Result Scores](https://www.datacamp.com/projects/1596)
