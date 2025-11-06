@@ -2,13 +2,15 @@
 
 ## Data Science Portfolio
 
-Recently, I subscribed to [**DataCamp**](https://www.datacamp.com/)'s premium plan to practice my Python programming skills with a focus on data science topics.
-I am pursuing the *Associate Data Scientist in Python* career track which includes courses on:
+Recently, I subscribed to [**DataCamp**](https://www.datacamp.com/)'s premium plan to practice my Python programming skills with a focus on data science topics and completed the *Data Analyst in Python* career track ([Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/track/4cbf0f07447fcdd69112f2cbf22d4d89c061956b)).
+
+
+Currently, I am pursuing the *Associate Data Scientist in Python* career track which includes courses on:
 - exploratory data analysis, 
 - statistical hypothesis testing,
 - predictive modeling with machine learning.
 
-This career track provides hands-on experience in various Python libraries for data science, including: 
+This track provides hands-on experience in various Python libraries for data science, including: 
 - pandas for data manipulation,
 - Matplotlib and Seaborn for data visualization,
 - scikit-learn for machine learning,
