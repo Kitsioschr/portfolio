@@ -21,7 +21,7 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 #### Project Tasks
 Perform an appropriate hypothesis to determine the p-value and determine the answer to the question: “Are more goals scored in women’s international football matches than men’s?”
 
-We assume a 10% significance level and use the following null and alternative hypothesis:
+Assume a 10% significance level and use the following null and alternative hypothesis:
 - H<sub>0</sub> : The mean number of goals scored in women’s international matches is the same as men’s
 - H<sub>A</sub> : The mean number of goals scored in women’s international matches is greater than men’s
 
