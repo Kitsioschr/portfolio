@@ -4,6 +4,7 @@
 ## DataCamp Real-World Projects
 
 As part of the *Associate Data Scientist in Python* career trak I have completed the following real-world DataCamp projects:
+- [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772)
 - [Hypothesis Testing with Men's and Women's Soccer Matches](https://www.datacamp.com/projects/1611)
 - [Analyzing Crime in Los Angeles](https://www.datacamp.com/projects/1876)
 - [Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/projects/1888)
@@ -11,12 +12,37 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 
 ---
 
+### Predictive Modeling for Agriculture
+
+#### Project Description
+> "A farmer reached out to you as a machine learning expert seeking help to select the best crop for his field. Due to budget constraints, the farmer explained that he could only afford to measure one out of the four essential soil measures:
+> - *Nitrogen* content ration in the soil
+> - *Phosphorous* content ration in the soil
+> - *Potassium* content ration in the soil
+> - *pH* value of the soil
+>   
+> The expert realized that this is a classic feature selection problem, where the objective is to pick the most important feature that could help predict the crop accurately. Can you help him?"
+
+The project description was taken from the DataCamp project website.
+
+#### Project Tasks
+Identify which feature of the following:
+- Nitrogen content ration in the soil, 
+- Phosphorous content ration in the soil, 
+- Potassium content ration in the soil
+- pH value of the soil
+has the strongest predictive performance (F1-score) for classifying crop types.
+
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/84d81d7e-8245-4a3b-8aa9-fba4beac92a8/edit).
+
+---
+
 ### Hypothesis Testing with Men's and Women's Soccer Matches
 
 #### Project Description
 > "Time to begin applying your statistical testing skills to historical data of men’s and women’s international soccer matches! You’ll work at a major online sports media company specializing in soccer analysis and reporting. You will test the hypothesis to determine of women’s international soccer matches result in more goals scored than men’s"
->
-> The project description was taken from the DataCamp project website.
+
+The project description was taken from the DataCamp project website.
 
 #### Project Tasks
 Perform an appropriate hypothesis to determine the p-value and determine the answer to the question: “Are more goals scored in women’s international football matches than men’s?”
@@ -33,8 +59,8 @@ The completed project can be found in my [DataLab notebook](https://www.datacamp
 
 #### Project Description
 > "Los Angeles, California, attracts people from all over the world, offering lots of opportunities, not always of the good kind! In this project, you’ll serve as a data detective, supporting the Los Angeles Police Department (LAPD) in analyzing crime  data to guide how they should allocate resources to protect the people of the city!"
->
-> The project description was taken from the DataCamp project website.
+
+The project description was taken from the DataCamp project website.
 
 #### Project Tasks
 Explore the dataset and
@@ -50,8 +76,8 @@ The completed project can be found in my [DataLab notebook](https://www.datacamp
 
 #### Project Description
 > "The Nobel Prize is awarded yearly to scientists and scholars in chemistry, literature, physics, medicine, economics, and peace, with the first prize awarded in 1901. Are there any biases in the way the honors are awarded? Use your data manipulation and visuaization skills to explore the history of this coveted prize."
->
-> The project description was taken from the DataCamp project website.
+
+The project description was taken from the DataCamp project website.
 
 #### Project Tasks
 - Find the most commonly awarded gender and birth country.
@@ -68,8 +94,8 @@ The completed project can be found in my [DataLab notebook](https://www.datacamp
 
 #### Project Description
 > "Each year, school test results impact the college admissions fate of millions of students. In this project you will use standardize test performance data from NYC's public schools to identigy the schools with top mathematics results, look at how performance varies by borough and find the NYC's top ten performing school."
-> 
-> The project description was taken from the DataCamp project website.
+
+The project description was taken from the DataCamp project website.
 
 #### Project Tasks
 Answer the following questions:
