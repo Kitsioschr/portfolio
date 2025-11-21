@@ -4,7 +4,8 @@
 ## DataCamp Real-World Projects
 
 As part of the *Associate Data Scientist in Python* career trak I have completed the following real-world DataCamp projects:
-- [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772)
+- [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Learning)
+- [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Learning)
 - [Hypothesis Testing with Men's and Women's Soccer Matches](https://www.datacamp.com/projects/1611)
 - [Analyzing Crime in Los Angeles](https://www.datacamp.com/projects/1876)
 - [Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/projects/1888)
@@ -12,14 +13,34 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 
 ---
 
+### Clustering Antarctic Penguin Species
+
+#### Project Description
+> "Delve into the information about penguins by utilizing unsupervised learning techniques on a thoughtfully curated dataset. Uncover concealed patterns, clusters, and relationships that exists within the dataset."
+
+The project description was taken from the DataCamp project website.
+
+#### Project Tasks
+Apply unsupervised learning (k-means clustering) to cluster Antarctic penguin species based on the following features:
+- culmen length,
+- culmen depth,
+- flipper length,
+- body mass,
+- sex.
+
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/ed2e6e97-873a-4a35-8445-5ece17cbcd9b/edit).
+
+---
+
+
 ### Predictive Modeling for Agriculture
 
 #### Project Description
 > "A farmer reached out to you as a machine learning expert seeking help to select the best crop for his field. Due to budget constraints, the farmer explained that he could only afford to measure one out of the four essential soil measures:
-> - *Nitrogen* content ration in the soil
-> - *Phosphorous* content ration in the soil
-> - *Potassium* content ration in the soil
-> - *pH* value of the soil
+> - *Nitrogen* content ration in the soil,
+> - *Phosphorous* content ration in the soil,
+> - *Potassium* content ration in the soil,
+> - *pH* value of the soil.
 >   
 > The expert realized that this is a classic feature selection problem, where the objective is to pick the most important feature that could help predict the crop accurately. Can you help him?"
 
