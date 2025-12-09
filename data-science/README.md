@@ -18,11 +18,6 @@ This track provides hands-on experience in various Python libraries for data sci
 
 More information on the *Associate Data Scientist in Python* career track can be found in the [track's website](https://www.datacamp.com/tracks/associate-data-scientist-in-python).
 
-### DataCamp Portfolio
-
-You can find my DataCamp portfolio at:
-[https://www.datacamp.com/portfolio/christoskitsios](https://www.datacamp.com/portfolio/christoskitsios)
-
 
 ### DataCamp Real-World Projects
 
@@ -37,4 +32,9 @@ I have completed the following real-world DataCamp projects:
 - [Exploring NYC Public School Test Result Scores](https://www.datacamp.com/projects/1596)
 
 Head to the [datacamp-projects](datacamp-projects/) subsdirectory to find more about the projects I have completed.
+
+### DataCamp Portfolio
+
+You can find my DataCamp portfolio at:
+[https://www.datacamp.com/portfolio/christoskitsios](https://www.datacamp.com/portfolio/christoskitsios).
   
