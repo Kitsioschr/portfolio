@@ -33,6 +33,13 @@ I have completed the following real-world DataCamp projects:
 
 Head to the [datacamp-projects](datacamp-projects/) subsdirectory to find more about the projects I have completed.
 
+
+### DataCamp Accomplishments 
+- [AI Fundamentals track](https://www.datacamp.com/completed/statement-of-accomplishment/track/de4b9c0cfb4fa748c32aea851dac2baa64eb7729)
+- [Data Analyst in Python track](https://www.datacamp.com/completed/statement-of-accomplishment/track/4cbf0f07447fcdd69112f2cbf22d4d89c061956b)
+
+  
+
 ### DataCamp Portfolio
 
 You can find my DataCamp portfolio at:
