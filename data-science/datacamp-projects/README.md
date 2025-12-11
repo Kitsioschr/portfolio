@@ -4,6 +4,8 @@
 ## DataCamp Real-World Projects
 
 As part of the *Associate Data Scientist in Python* career trak I have completed the following real-world DataCamp projects:
+
+#### Python
 - [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Learning)
 - [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Learning)
 - [Hypothesis Testing with Men's and Women's Soccer Matches](https://www.datacamp.com/projects/1611)
@@ -11,7 +13,11 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 - [Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/projects/1888)
 - [Exploring NYC Public School Test Result Scores](https://www.datacamp.com/projects/1596)
 
+#### SQL
+
 ---
+
+## Projects Description
 
 ### Clustering Antarctic Penguin Species
 
