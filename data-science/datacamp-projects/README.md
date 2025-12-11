@@ -8,6 +8,7 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 #### Python
 - [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Learning)
 - [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Learning)
+- [Customer Analytics: Preparing Data for Modeling](https://www.datacamp.com/projects/1600)
 - [Hypothesis Testing with Men's and Women's Soccer Matches](https://www.datacamp.com/projects/1611)
 - [Analyzing Crime in Los Angeles](https://www.datacamp.com/projects/1876)
 - [Visualizing the History of Nobel Prize Winners](https://www.datacamp.com/projects/1888)
@@ -39,7 +40,6 @@ The completed project can be found in my [DataLab notebook](https://www.datacamp
 
 ---
 
-
 ### Predictive Modeling for Agriculture
 
 #### Project Description
@@ -62,6 +62,27 @@ Identify which feature of the following:
 has the strongest predictive performance (F1-score) for classifying crop types.
 
 The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/84d81d7e-8245-4a3b-8aa9-fba4beac92a8/edit).
+
+---
+
+### Customer Analytics: Preparing Data for Modeling
+
+#### Project Description
+> "You’ve been hired by a major online data science training provider to store their data much more efficiently, so they can create a model that predicts if course enrollees are looking for a job. You’ll convert data types, create ordered categories, and filter ordered categorical data so the data is ready for modeling."
+
+The project description was taken from the DataCamp project website.
+
+#### Project Tasks
+You have been asked by the Head Data Scientist to create a DataFrame that stores the data in the csv file more efficiently. The requirements are as follows:
+- columns containing categories with two factors must be stored as Booleans,
+- columns containing integers must be stored as 32-bit integers,
+- columns containing floats must be stored as 16-bit floats,
+- columns containing nominal categories must be stored as the category data type,
+- columns containing ordinal categories must be stored as ordered categories,
+- the DataFrame must contain only students with 10 or more years of experience in companies of at least 1000 employees,
+- there should be a substantial decrease in memory usage.
+
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/6e1665fd-3f09-444d-83f7-ed2d7d7449bb/edit).
 
 ---
 
@@ -153,5 +174,4 @@ Perform exploratory data analysis on the students data to explore how the length
 The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/df6f7f7f-fadc-483a-b190-0f41177a495b/edit).
 
 ---
-
 
