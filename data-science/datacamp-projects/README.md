@@ -14,6 +14,7 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 - [Exploring NYC Public School Test Result Scores](https://www.datacamp.com/projects/1596)
 
 #### SQL
+- [Analyzing Students’ Mental Health](https://www.datacamp.com/projects/1593)
 
 ---
 
@@ -133,4 +134,24 @@ Answer the following questions:
 The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/456b9869-cb71-409e-b50a-cb2f27fba081/edit).  
 
 ---
+
+### Analyzing Students’ Mental Health
+
+#### Project Description
+> "Studying abroad can be both exciting and difficult. But what might be contributing to this? One Japanese international university decided to find out! Use your data manipulation skills to explore the data from a study on mental health of international students and fin out which factors may have the greatest impact."
+
+The project description was taken from the DataCamp project website.
+
+#### Project Tasks
+Perform exploratory data analysis on the students data to explore how the length of stay impacts the average mental health diagnostic scores of international students. The final table should have the following columns:
+- `stay` : length of stay,
+- `count_int` : number of international students for each length of stay,
+- `average_phq` : average of the PHQ-9 test,
+- `average_scs` : average of the SCS test,
+- `average_as` : average of the ASISS test.
+
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/df6f7f7f-fadc-483a-b190-0f41177a495b/edit).
+
+---
+
 
