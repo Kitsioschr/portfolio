@@ -29,6 +29,8 @@ DataCamp also offers Real-world Projects in order to apply your skills though pr
 I have completed the following real-world DataCamp projects:
 - [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Learning)
 - [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Learning)
+- [Modeling Car Insurance Claim Outcomes](https://www.datacamp.com/projects/1645)
+- [Exploring Airbnb Market Trends](https://www.datacamp.com/projects/1589) 
 - [Customer Analytics: Preparing Data for Modeling](https://www.datacamp.com/projects/1600)
 - [Hypothesis testing with Men's and Women's Soccer Matches](https://www.datacamp.com/projects/1611)
 - [Analyzing Crime in Los Angeles](https://www.datacamp.com/projects/1876)
