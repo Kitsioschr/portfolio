@@ -8,6 +8,7 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 #### Python
 - [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Learning)
 - [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Learning)
+- [Modeling Car Insurance Claim Outcomes](https://www.datacamp.com/projects/1645)
 - [Exploring Airbnb Market Trends](https://www.datacamp.com/projects/1589)
 - [Customer Analytics: Preparing Data for Modeling](https://www.datacamp.com/projects/1600)
 - [Hypothesis Testing with Men's and Women's Soccer Matches](https://www.datacamp.com/projects/1611)
@@ -66,15 +67,30 @@ The completed project can be found in my [DataLab notebook](https://www.datacamp
 
 ---
 
-### Exploring Airbnb Market Trends
+### Modeling Car Insurance Claim Outcomes
 
 #### Project Description
-> “New York City has a variety of Airbnb listings to meet the high demand for temporary lodging for travelers, with several different price levels, room types, and locations. In this project, you’ll be able to practice your Python skills in importing and cleaning data and data manipulation to help you report insights to a real estate start-up!“
+> "Machine learning is very popular in the insurance market, which has long been renowned for being data-driven. Working on behalf of On the Road car insurance, you’ll investigate their customer data to identify the feature that produces the most accurate logistic regression model for them to predict whether a claim will be made against a policy!"
 
 The project description was taken from the DataCamp project website.
 
 #### Project Tasks
-Import the data, which are available in CSV, TSV, and Excel files and then, perform Exploratory Data Analysis. Answer the following questions:
+Using a logistic regression model, identify which single feature of data is the best predictor of whether a claim will be made, based on the accuracy score.
+
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/d40034c4-ee9f-4da6-bf18-c66b6dff34d6/edit).
+
+
+---
+
+### Exploring Airbnb Market Trends
+
+#### Project Description
+> "New York City has a variety of Airbnb listings to meet the high demand for temporary lodging for travelers, with several different price levels, room types, and locations. In this project, you’ll be able to practice your Python skills in importing and cleaning data and data manipulation to help you report insights to a real estate start-up!"
+
+The project description was taken from the DataCamp project website.
+
+#### Project Tasks
+Import the data, which are available in CSV, TSV, and Excel files, and then, perform Exploratory Data Analysis. Answer the following questions:
 - When were the earliest and most recent reviews?
 - How many listings are of the type “private room”?
 - What is the mean price of the listings?
