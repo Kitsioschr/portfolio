@@ -8,6 +8,7 @@ As part of the *Associate Data Scientist in Python* career trak I have completed
 #### Python
 - [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Learning)
 - [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Learning)
+- [Exploring Airbnb Market Trends](https://www.datacamp.com/projects/1589)
 - [Customer Analytics: Preparing Data for Modeling](https://www.datacamp.com/projects/1600)
 - [Hypothesis Testing with Men's and Women's Soccer Matches](https://www.datacamp.com/projects/1611)
 - [Analyzing Crime in Los Angeles](https://www.datacamp.com/projects/1876)
@@ -62,6 +63,23 @@ Identify which feature of the following:
 has the strongest predictive performance (F1-score) for classifying crop types.
 
 The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/84d81d7e-8245-4a3b-8aa9-fba4beac92a8/edit).
+
+---
+
+### Exploring Airbnb Market Trends
+
+#### Project Description
+> “New York City has a variety of Airbnb listings to meet the high demand for temporary lodging for travelers, with several different price levels, room types, and locations. In this project, you’ll be able to practice your Python skills in importing and cleaning data and data manipulation to help you report insights to a real estate start-up!“
+
+The project description was taken from the DataCamp project website.
+
+#### Project Tasks
+Import the data, which are available in CSV, TSV, and Excel files and then, perform Exploratory Data Analysis. Answer the following questions:
+- When were the earliest and most recent reviews?
+- How many listings are of the type “private room”?
+- What is the mean price of the listings?
+
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/984f9ce8-a381-40ba-b3ea-0878b4ccce95/edit).
 
 ---
 
