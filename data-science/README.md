@@ -27,8 +27,9 @@ More information on the *Associate Data Scientist in Python* career track can be
 DataCamp also offers Real-world Projects in order to apply your skills though practical experience with real datasets. 
 
 I have completed the following real-world DataCamp projects:
-- [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Learning)
-- [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Learning)
+- [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Machine Learning)
+- [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Machine Learning)
+- [Predicting Movie Rental Durations](https://www.datacamp.com/projects/1796) (Supervised Machine Learning)
 - [Modeling Car Insurance Claim Outcomes](https://www.datacamp.com/projects/1645)
 - [Exploring Airbnb Market Trends](https://www.datacamp.com/projects/1589) 
 - [Customer Analytics: Preparing Data for Modeling](https://www.datacamp.com/projects/1600)
