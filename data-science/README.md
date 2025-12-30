@@ -2,7 +2,7 @@
 
 ## Data Science Portfolio
 
-Recently, I subscribed to [**DataCamp**](https://www.datacamp.com/)'s premium plan to practice my Python programming skills with a focus on data science topics.
+Recently, I subscribed to [**DataCamp**](https://www.datacamp.com/)'s premium plan to practise my Python programming skills with a focus on data science topics.
 
 I have completed the *Associate Data Scientist in Python* career track, a 90-hour program that includes courses on:
 - exploratory data analysis, 
