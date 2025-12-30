@@ -6,8 +6,9 @@
 As part of the *Associate Data Scientist in Python* career trak I have completed the following real-world DataCamp projects:
 
 #### Python
-- [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Learning)
-- [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Learning)
+- [Clustering Antarctic Penguin Species](https://www.datacamp.com/projects/1809) (Unsupervised Machine Learning)
+- [Predictive Modeling for Agriculture](https://www.datacamp.com/projects/1772) (Supervised Machine Learning)
+- [Predicting Movie Rental Durations](https://www.datacamp.com/projects/1796) (Supervised Machine Learning)
 - [Modeling Car Insurance Claim Outcomes](https://www.datacamp.com/projects/1645)
 - [Exploring Airbnb Market Trends](https://www.datacamp.com/projects/1589)
 - [Customer Analytics: Preparing Data for Modeling](https://www.datacamp.com/projects/1600)
@@ -64,6 +65,21 @@ Identify which feature of the following:
 has the strongest predictive performance (F1-score) for classifying crop types.
 
 The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/84d81d7e-8245-4a3b-8aa9-fba4beac92a8/edit).
+
+---
+
+### Predicting Movie Rental Durations
+
+#### Project Description
+> "Time to put your regression knowledge to the test! A DVD rental company has approached you to make a regression model which will help predict the number of days a customer rents a DVD. The model will hopefully make their inventory planning much more efficient. You decide to help the by running some regression models and recommending the best-performing model to the company."
+
+The project description was taken from the DataCamp project website.
+
+#### Project Tasks 
+
+Running different regression models and perform hyperparameter tuning in order to choose the best-performing model. Recommend a model with a mean squared error less than 3 on the test data set. 
+
+The completed project can be found in my [DatLab notebook](https://www.datacamp.com/datalab/w/246c5d3c-3378-4733-be83-f18d06492cb8/edit).
 
 ---
 
