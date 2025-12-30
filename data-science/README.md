@@ -2,9 +2,9 @@
 
 ## Data Science Portfolio
 
-Recently, I subscribed to [**DataCamp**](https://www.datacamp.com/)'s premium plan to practice my Python programming skills with a focus on data science topics and completed the *Data Analyst in Python* career track ([Statement of Accomplishment](https://www.datacamp.com/completed/statement-of-accomplishment/track/4cbf0f07447fcdd69112f2cbf22d4d89c061956b)).
+Recently, I subscribed to [**DataCamp**](https://www.datacamp.com/)'s premium plan to practice my Python programming skills with a focus on data science topics.
 
-Currently, I am pursuing the *Associate Data Scientist in Python* career track which includes courses on:
+I have completed the *Associate Data Scientist in Python* career track, a 90-hour program that includes courses on:
 - exploratory data analysis, 
 - statistical hypothesis testing,
 - predictive modeling with machine learning.
@@ -15,9 +15,11 @@ This track provides hands-on experience in various Python libraries for data sci
 - scikit-learn for machine learning,
 - statsmodels for statistical analysis.
 
-More information on the *Associate Data Scientist in Python* career track can be found in the [track's website](https://www.datacamp.com/tracks/associate-data-scientist-in-python).
+My "Statement of Accomplishment" and more information about the *Associate Data Scientist in Python* career track can be found on the [track completion website](https://www.datacamp.com/completed/statement-of-accomplishment/track/32f0f25c43e3c064cf0556186c8f0d3318f02c96).
+
 
 ### DataCamp Accomplishments 
+- [Associate Data Scientist in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/32f0f25c43e3c064cf0556186c8f0d3318f02c96)
 - [AI Fundamentals track](https://www.datacamp.com/completed/statement-of-accomplishment/track/de4b9c0cfb4fa748c32aea851dac2baa64eb7729)
 - [Data Analyst in Python track](https://www.datacamp.com/completed/statement-of-accomplishment/track/4cbf0f07447fcdd69112f2cbf22d4d89c061956b)
 
