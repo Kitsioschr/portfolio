@@ -20,8 +20,8 @@ My "Statement of Accomplishment" and more information about the *Associate Data 
 
 ### DataCamp Accomplishments 
 - [Associate Data Scientist in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/32f0f25c43e3c064cf0556186c8f0d3318f02c96)
-- [AI Fundamentals track](https://www.datacamp.com/completed/statement-of-accomplishment/track/de4b9c0cfb4fa748c32aea851dac2baa64eb7729)
-- [Data Analyst in Python track](https://www.datacamp.com/completed/statement-of-accomplishment/track/4cbf0f07447fcdd69112f2cbf22d4d89c061956b)
+- [AI Fundamentals](https://www.datacamp.com/completed/statement-of-accomplishment/track/de4b9c0cfb4fa748c32aea851dac2baa64eb7729)
+- [Data Analyst in Python](https://www.datacamp.com/completed/statement-of-accomplishment/track/4cbf0f07447fcdd69112f2cbf22d4d89c061956b)
 
 
 ### DataCamp Real-World Projects
