@@ -79,7 +79,7 @@ The project description was taken from the DataCamp project website.
 
 Running different regression models and perform hyperparameter tuning in order to choose the best-performing model. Recommend a model with a mean squared error less than 3 on the test data set. 
 
-The completed project can be found in my [DatLab notebook](https://www.datacamp.com/datalab/w/246c5d3c-3378-4733-be83-f18d06492cb8/edit).
+The completed project can be found in my [DataLab notebook](https://www.datacamp.com/datalab/w/246c5d3c-3378-4733-be83-f18d06492cb8/edit).
 
 ---
 
